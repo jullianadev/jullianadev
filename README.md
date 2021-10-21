@@ -1,4 +1,4 @@
-## Olá! Eu sou a Julliana. Sou criadora de conteúdo de programação e tecnologia!
+## Olá! Eu sou a Julliana. Crio conteúdo sobre programação e tecnologia!
 <div align="center">
   <a href="https://github.com/jullianadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jullianadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
