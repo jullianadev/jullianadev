@@ -1,4 +1,4 @@
-## Olá! Eu sou a Julliana, mais conhecida como Julliana Dev. Crio conteúdo sobre programação e tecnologia!
+## Hi! I'm Julliana, A.K.A. Julliana Dev. I create content about coding and technology!
 <div align="center">
   <a href="https://github.com/jullianadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jullianadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
