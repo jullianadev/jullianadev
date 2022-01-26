@@ -1,4 +1,4 @@
-## Olá! Eu sou a Julliana. Crio conteúdo sobre programação e tecnologia!
+## Olá! Eu sou a Julliana, mais conhecida como Julliana Dev. Crio conteúdo sobre programação e tecnologia!
 <div align="center">
   <a href="https://github.com/jullianadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jullianadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -32,7 +32,6 @@
   <a href="https://stackoverflow.com/users/17214238/jullianadev" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
   <a href="https://www.reddit.com/u/jullianadealmada" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
   <a href="https://www.behance.net/julliana" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a> 
-  <a href="https://vm.tiktok.com/ZM8S852G9/" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   <a href="https://dev.to/julliana" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a> 
   
  
