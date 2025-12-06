@@ -1,4 +1,5 @@
-## Olá! Eu sou Julliana de Almada, mais conhecida como Julliana Dev, e eu AMO falar sobre programação e tecnologia!
+## Olá! Eu sou Julliana Dev e eu AMO falar sobre programação e tecnologia!
+## Bem-vindo ao meu GitHub!
 <div align="center">
   <a href="https://github.com/jullianadev">
   <img height="0em" src="https://github-readme-stats.vercel.app/api?username=jullianadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
